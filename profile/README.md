@@ -8,7 +8,6 @@
   <a href="#-o-problema">O Problema</a> •
   <a href="#-a-solução">A Solução</a> •
   <a href="#-como-funciona">Como Funciona</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-impacto-social">Impacto Social</a>
 </div>
 
